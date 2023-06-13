@@ -13,7 +13,7 @@ public class Mahasiswa {
     }
 
     public void setNpm(String npm) {
-        this.npm = npm;
+        this.npm =npm ;
     }
 
     public String getNama() {
